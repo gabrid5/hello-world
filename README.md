@@ -76,3 +76,11 @@ End Sub
 echo "Hello World";
 ?>
 ```
+---
+
+<div align="center">
+    
+    Hey, you made it to the bottom!
+    Take a cookie 🍪
+
+</div>
