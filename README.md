@@ -93,11 +93,10 @@ fn main() {
     println!("Hello World");
 }
 ```
----
+
+#
 
 <div align="center">
-    
     Hey, you made it to the bottom!
     Take a cookie 🍪
-
 </div>
