@@ -76,6 +76,14 @@ End Sub
 echo "Hello World";
 ?>
 ```
+
+## Rust
+
+```rust
+fn main() {
+    println!("Hello World");
+}
+```
 ---
 
 <div align="center">
