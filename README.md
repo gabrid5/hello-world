@@ -1,5 +1,5 @@
 ## hello-world 👋
-
+<img src="https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif" width="60" height="60"/>
 This is a practice repository.
 
 #### Introduction
@@ -15,7 +15,7 @@ This repository was created with the purpose of practicing and learning about ho
 Feel free to clone this repository, make changes, and experiment as you wish.
 
 ##
-
+<img src="https://wealthie.works/wp-content/uploads/WLTH_Fox_Loop_v001.gif" width="60" height="60"/>
 This repository contains examples of how to print "Hello World" in various programming languages.
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
