@@ -18,20 +18,23 @@ Feel free to clone this repository, make changes, and experiment as you wish.
 
 This repository contains examples of how to print "Hello World" in various programming languages.
 
-## Python
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
 
+#### Python
 ```python
 print("Hello World")
 ```
 
-## JavaScript
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="80" height="80"/>
 
+#### JavaScript
 ```javascript
 console.log("Hello World");
 ```
 
-## Java
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="80" height="80"/>
 
+#### Java
 ```java
 public class HelloWorld {
     public static void main(String[] args) {
@@ -40,7 +43,9 @@ public class HelloWorld {
 }
 ```
 
-## C
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80"/>
+
+#### C
 ```c
 #include <stdio.h>
 int main() {
@@ -49,7 +54,7 @@ int main() {
 }
 ```
 
-## C++
+## C++ 
 
 ```cpp
 #include <iostream>
@@ -59,8 +64,9 @@ int main() {
 }
 ```
 
-## C#
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
 
+#### C#
 ```csharp
 using System;
 class Program {
@@ -70,30 +76,41 @@ class Program {
 }
 ```
 
-## VBA
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="80" height="80"/> 
 
-```vba
-Sub HelloWorld()
-    MsgBox "Hello World"
-End Sub
+#### Visual Basic
+```visualbasic
+Module HelloWorld
+    Sub Main()
+        Console.WriteLine("Hello World")
+    End Sub
+End Module
 ```
 
-## PHP
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="80" height="80"/>
 
+#### PHP
 ```php
 <?php
 echo "Hello World";
 ?>
 ```
 
-## Rust
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="80" height="80"/>
 
+#### Rust
 ```rust
 fn main() {
     println!("Hello World");
 }
 ```
 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
+
+#### SQL
+```sql
+SELECT 'Hello, World!' AS HelloWorld;
+```
 #
 
 <div align="center">
