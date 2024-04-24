@@ -69,17 +69,30 @@ int main() {
 #### C#
 ```csharp
 using System;
-class Program {
-    static void Main(string[] args) {
+class Program
+{
+    static void Main()
+    {
         Console.WriteLine("Hello World");
     }
 }
 ```
 
+## F#
+
+```fsharp
+open System
+
+[<EntryPoint>]
+let main argv =
+    printfn "Hello World"
+    0 // return an integer exit code
+```
+
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="80" height="80"/> 
 
-#### Visual Basic
-```visualbasic
+#### VB.NET
+```vbnet
 Module HelloWorld
     Sub Main()
         Console.WriteLine("Hello World")
