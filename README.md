@@ -126,6 +126,8 @@ SELECT 'Hello, World!' AS HelloWorld;
 ```
 #
 
+If you want more information and inspiration about programming, click on this link: https://www.alura.com.br/artigos/hello-world-em-varias-linguagens
+
 <div align="center">
     Hey, you made it to the bottom!
     Take a cookie 🍪
