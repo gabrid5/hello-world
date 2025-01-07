@@ -134,6 +134,5 @@ If you want more information and inspiration about programming, click on this li
 #
 
 <div align="center">
-    Hey, you made it to the bottom!
-    Take a cookie 🍪
+    If you made it this far, take a cookie 🍪
 </div>
