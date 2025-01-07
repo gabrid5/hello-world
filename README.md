@@ -164,9 +164,6 @@ SELECT 'Hello, World!' AS HelloWorld;
 If you want more information and inspiration about programming, check out this [link](https://www.alura.com.br/artigos/hello-world-em-varias-linguagens).
 
 #
-```
-
-Agora, todos os títulos estão formatados como código. Se precisar de mais ajustes ou tiver outra solicitação, é só avisar!
 
 <div align="center">
     If you made it this far, take a cookie 🍪
