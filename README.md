@@ -26,7 +26,7 @@ Feel free to **clone** this repository, make changes, and experiment as you wish
 
 #
 
- 🚀 **This repository contains examples of how to print "Hello World" in various programming languages:**
+## 🚀 **This repository contains examples of how to print "Hello World" in various programming languages:**
 
 ### **Python**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
@@ -159,7 +159,7 @@ SELECT 'Hello, World!' AS HelloWorld;
 
 #
 
-📚 **More Information & Inspiration**
+## 📚 **More Information & Inspiration**
 
 If you want more information and inspiration about programming, check out this [link](https://www.alura.com.br/artigos/hello-world-em-varias-linguagens).
 
