@@ -1,4 +1,4 @@
-# hello-world 👋
+# hello-world 👋🌍
 
 <img src="https://user-images.githubusercontent.com/98788821/209615112-def0ac3e-2067-4dfb-bb32-7fb4bdf52bdb.gif" width="60" height="60"/>
 
