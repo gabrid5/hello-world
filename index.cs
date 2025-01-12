@@ -1,4 +1,4 @@
-/* Exemplo de Execução com o código C# */
+/* Execução com o código C# */
 
 using System;
 
