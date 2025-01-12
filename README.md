@@ -151,7 +151,7 @@ fn main() {
 #
 
 ### **SQL**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" height="80"/>
 
 ```sql
 SELECT 'Hello, World!' AS message;
